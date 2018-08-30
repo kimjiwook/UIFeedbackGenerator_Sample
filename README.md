@@ -1,3 +1,3 @@
 # UIFeedbackGenerator_Sample
 
-UIFeedbackGenerator SampeCode.
+UIFeedbackGenerator SampeCode. for Kimjiwook
