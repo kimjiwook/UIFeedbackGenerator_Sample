@@ -1,0 +1,3 @@
+# UIFeedbackGenerator_Sample
+
+UIFeedbackGenerator SampeCode.
